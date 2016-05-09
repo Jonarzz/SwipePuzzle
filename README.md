@@ -13,3 +13,7 @@ Options:
 Game screen:
 
 ![game](https://lh3.googleusercontent.com/AAaqxqTr_x6hbjrS6-DRCovOw-iWoKA89501O2vtyDNdeb8uufmiHVG8obHIHkggsSg=h900-rw)
+
+---
+##Treeware License
+Basically MIT License, but if you use the code (learning or project purposes), you have to plant at least one tree at some future time.
